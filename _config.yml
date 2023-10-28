@@ -3,6 +3,8 @@ title: "Single Cell & Spatial Omics Korea"
 github_url: https://github.com/singlecell-spatialomics-korea
 zulip_url: https://zulip.scsok.io
 
+future: true
+
 plugins:
   - jekyll-postcss
 
