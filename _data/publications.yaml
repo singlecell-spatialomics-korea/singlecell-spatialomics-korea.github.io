@@ -1,0 +1,21 @@
+- title: "Example Publication 1"
+  authors:
+    - "John Doe"
+    - "Jane Smith"
+  date: "2021-01-01"
+  journal: "Journal of Examples"
+  volume: "1"
+  issue: "1"
+  pages: "1-10"
+  doi: "10.1234/example1"
+
+- title: "Example Publication 2"
+  authors:
+    - "Bob Johnson"
+    - "Sally Lee"
+  date: "2021-02-01"
+  journal: "Journal of Examples"
+  volume: "1"
+  issue: "2"
+  pages: "11-20"
+  doi: "10.1234/example2"

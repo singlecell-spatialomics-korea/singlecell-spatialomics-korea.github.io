@@ -1,0 +1,38 @@
+---
+---
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a {
+    @apply text-blue-600 hover:text-blue-800
+}
+
+h1 {
+    @apply text-3xl font-extrabold dark:text-white mt-5 mb-2
+}
+
+h2 {
+    @apply text-2xl font-extrabold dark:text-white mt-5 mb-2
+}
+
+h3 {
+    @apply text-xl font-extrabold dark:text-white mt-5 mb-2
+}
+
+p {
+    @apply font-light pb-5
+}
+
+ul {
+    @apply list-disc list-inside mb-4
+}
+
+li {
+    @apply pt-1
+}
+
+ul > li {
+    margin-left: 30px;
+}
