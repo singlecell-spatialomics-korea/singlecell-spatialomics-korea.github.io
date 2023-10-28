@@ -1,5 +1,33 @@
-_site
-.sass-cache
-.jekyll-cache
+# Jekyll build output
+_site/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*~
+.project
+.settings
+*.tmproj
+*.sublime-workspace
+
+# Jekyll configuration files
+_config.yml
+_config.toml
+_config.json
+
+# Jekyll cache and logs
+.jekyll-cache/
 .jekyll-metadata
-vendor
+.jekyll-keep
+
+# Build artifacts
+*.gem
+*.tar.gz
+*.zip
+
+# Ignore the vendor directory (if used)
+/vendor/
+
+node_modules/
