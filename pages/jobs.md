@@ -6,6 +6,8 @@ permalink: /jobs/
 
 ## Jobs
 
+Current job openings at SCSOK research groups.
+
 <div class="w-100">
     {% for post in site.posts %}
     {% if post.categories contains 'jobs' and post.active %}

@@ -6,7 +6,7 @@ permalink: /events/
 
 ## Events
 
-We organize regular meetups for the community to share our knowledge and experience.
+Meetups to share our knowledge and experience.
 
 ### Upcoming Events
 

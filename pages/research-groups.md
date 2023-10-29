@@ -6,6 +6,8 @@ permalink: /research-groups/
 
 ## Research Groups
 
+Research groups participating in SCSOK.
+
 {% for group in site.data.groups %}
 * {{ group.name }}
     * Headed by `{{ group.head }}`

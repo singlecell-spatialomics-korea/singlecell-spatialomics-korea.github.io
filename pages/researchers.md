@@ -6,7 +6,7 @@ permalink: /researchers/
 
 ## Researchers
 
-List of Researchers connected via SCSOK.
+Our researchers connected via SCSOK.
 
 {% for p in site.data.researchers %}
 - {{ p.name }}

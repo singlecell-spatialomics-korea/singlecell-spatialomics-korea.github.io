@@ -18,8 +18,8 @@ navigation:
     url: /researchers/
   - label: Events
     url: /events/
-  - label: Research
-    url: /research/
+  - label: Methods
+    url: /methods/
   - label: Publications
     url: /publications/
   - label: Jobs
