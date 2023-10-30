@@ -12,10 +12,8 @@ postcss:
   cache: false
 
 navigation:
-  - label: Research Groups
-    url: /research-groups/
-  - label: Researchers
-    url: /researchers/
+  - label: People
+    url: /people/
   - label: Events
     url: /events/
   - label: Methods
