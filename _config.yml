@@ -16,8 +16,8 @@ navigation:
     url: /people/
   - label: Events
     url: /events/
-  - label: Methods
-    url: /methods/
+  - label: Research
+    url: /research/
   - label: Publications
     url: /publications/
   - label: Jobs
