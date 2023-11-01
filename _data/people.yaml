@@ -3,3 +3,23 @@
   url: https://pnucolab.com/
   institute: Pusan National University
   description: Our group is at the Department of Biomedical Convergence Engineering, Pusan National University, Yangsan, Korea. We are interested in developing computational methods for analyzing single cell and spatial omics data, and applying them to study the molecular mechanisms of human diseases.
+- name: Prof. Junil Kim
+  group: Laboratory for Single Cell Systems
+  url: https://sites.google.com/site/neocaleb
+  institute: Soongsil University
+  description: 
+- name: Dr. Heetak Lee
+  group: Center for Genome Engineering
+  url: https://cge.ibs.re.kr/html/cge_en/teams/teams_020501.html
+  institute: Institute for Basic Science
+  description: 
+- name: Prof. Chang Ho Sohn
+  group: Center for NanoMedicine
+  url: https://nanobme.yonsei.ac.kr/people.asp?mid=m04_02&sOpt=A&act=view&uid=1070
+  institute: Institute for Basic Science, Yonsei University
+  description: 
+- name: Prof. Jong-Eun Park
+  group: Single-Cell Medical Genomics Laboratory
+  url: https://sites.google.com/view/scmglkaist
+  institute: Korea Advanced Institute of Science and Technology (KAIST)
+  description: 
