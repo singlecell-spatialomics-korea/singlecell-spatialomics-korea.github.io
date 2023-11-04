@@ -1,0 +1,44 @@
+---
+layout: page
+---
+
+<div class="grid grid-cols-1 gap-10 lg:grid-cols-5">
+    <div class="lg:col-span-3">
+        {{ content }}
+    </div>
+    <div id="map" class="h-96 lg:h-full lg:col-span-2"></div>
+</div>
+
+
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=24d8e7f6e67f07889aad0a57dd367e86&libraries=clusterer"></script>
+<script>
+    var map = new kakao.maps.Map(document.getElementById('map'), {
+        center : new kakao.maps.LatLng(36.2683, 127.6358),
+        level : 13
+    });
+    
+    var clusterer = new kakao.maps.MarkerClusterer({
+        map: map,
+        averageCenter: true,
+        minLevel: 10
+    });
+ 
+    var data = {{ site.data.people | jsonify }};
+    
+    var markers = [];
+    var infowindows = [];
+    var function_str = "";
+    for (var i = 0; i < data.length; i++) {
+        var marker = new kakao.maps.Marker({ position : new kakao.maps.LatLng(data[i].location.lat, data[i].location.lng)});
+        var infowindow = new kakao.maps.InfoWindow({content : '<div class="px-2 py-1 text-xs text-left h-8"><span class="inline-block align-middle">' + data[i].group + '</span></div>'});
+
+        markers.push(marker);
+        infowindows.push(infowindow);
+
+        function_str += "kakao.maps.event.addListener(markers[" + i + "], 'mouseover', function() { infowindows[" + i + "].open(map, markers[" + i + "]); });"
+        function_str += "kakao.maps.event.addListener(markers[" + i + "], 'mouseout', function() { infowindows[" + i + "].close(); });"
+    }
+
+    Function(function_str)();
+    clusterer.addMarkers(markers);
+</script>

@@ -1,12 +1,9 @@
 ---
 layout: page
-title: "Research"
+title: Research
+subtitle: Research we are interested in, and working on.
 permalink: /research/
 ---
-
-## Research
-
-Research we are interested in, and working on.
 
 ### Methods
 

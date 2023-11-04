@@ -1,12 +1,9 @@
 ---
 layout: page
 title: Events
+subtitle: Meetups to share our knowledge and experience.
 permalink: /events/
 ---
-
-## Events
-
-Meetups to share our knowledge and experience.
 
 ### Upcoming Events
 

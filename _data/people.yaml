@@ -3,43 +3,70 @@
   group: Computational Omics Laboratory (COLab)
   url: https://pnucolab.com/
   institute: Pusan National University
+  location:
+    lat: 35.3226
+    lng: 129.0076
 - name: Junil Kim
   prefix: Prof.
   group: Laboratory for Single Cell Systems
   url: https://sites.google.com/site/neocaleb
   institute: Soongsil University
+  location:
+    lat: 37.4976
+    lng: 126.9576
 - name: Heetak Lee
   prefix: Dr.
   group: Center for Genome Engineering
   url: https://cge.ibs.re.kr/html/cge_en/teams/teams_020501.html
   institute: Institute for Basic Science
+  location:
+    lat: 36.3775
+    lng: 127.3843
 - name: Chang Ho Sohn
   prefix: Prof.
   group: Center for NanoMedicine
   url: https://nanobme.yonsei.ac.kr/people.asp?mid=m04_02&sOpt=A&act=view&uid=1070
   institute: Institute for Basic Science, Yonsei University
+  location:
+    lat: 37.5630
+    lng: 126.9344
 - name: Jong-Eun Park
   prefix: Prof.
   group: Single-Cell Medical Genomics Laboratory
   url: https://sites.google.com/view/scmglkaist
   institute: Korea Advanced Institute of Science and Technology (KAIST)
+  location:
+    lat: 36.3755
+    lng: 127.3625
 - name: Yun Hak Kim
   prefix: Prof.
   group: Pioneer Lab
   url: https://yunhakkim.pusan.ac.kr/
   institute: Pusan National University
+  location:
+    lat: 35.3265
+    lng: 129.0029
 - name: Jong Kyoung Kim
   prefix: Prof.
   group: Lab of Computational Biology
   url: https://cb.postech.ac.kr/
   institute: Pohang University of Science and Technology (POSTECH)
+  location:
+    lat: 36.0113
+    lng: 129.3263
 - name: Heonseok Kim
   prefix: Prof.
   group: Functional Genomics Lab
   institute: Hanyang University
   url: https://sites.google.com/view/heonseok-kim-lab/
+  location:
+    lat: 37.5588
+    lng: 127.0443
 - name: Jihwan Park
   prefix: Prof.
   group: Functional Genomics Laboratory
   url: https://cwww.gist.ac.kr/genomics/
   institute: Gwangju Institute of Science and Technology (GIST)
+  location:
+    lat: 35.2266
+    lng: 126.8423

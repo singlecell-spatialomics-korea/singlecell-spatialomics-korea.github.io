@@ -1,12 +1,9 @@
 ---
 layout: page
 title: Publications
+subtitle: Publications by participating research groups.
 permalink: /publications/
 ---
-
-## Publications
-
-Publications by participating research groups.
 
 <ul>
     {% for group in site.data.publications %}

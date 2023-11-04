@@ -48,3 +48,7 @@ li {
 ul > li {
     margin-left: 1.3em;
 }
+
+#map * {
+    box-sizing: content-box;
+}

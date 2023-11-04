@@ -1,12 +1,9 @@
 ---
 layout: page
 title: Jobs
+subtitle: Current job openings at SCSOK research groups.
 permalink: /jobs/
 ---
-
-## Jobs
-
-Current job openings at SCSOK research groups.
 
 <div class="w-100">
     {% for post in site.posts %}
