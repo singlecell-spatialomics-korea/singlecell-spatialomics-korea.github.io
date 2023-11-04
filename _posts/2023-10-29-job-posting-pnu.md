@@ -15,3 +15,7 @@ To apply and become a part of our group, submit your application to the [Genomic
   - Fluent in Korean or English, both written and spoken.
   - Proficient in Python programming.
   - Self-motivated in the field of computational biology.
+
+- Contact
+  - Prof. Dr. Jeongbin Park
+  - [jeongbin.park@pusan.ac.kr](mailto:jeongbin.park@pusan.ac.kr)
