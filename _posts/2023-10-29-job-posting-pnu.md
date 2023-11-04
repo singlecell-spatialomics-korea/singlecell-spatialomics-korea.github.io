@@ -11,7 +11,7 @@ We are currently seeking PhD candidates and internship students to join our team
 
 To apply and become a part of our group, submit your application to the [Genomic Data Science Major (K-Genome)](https://genomicdata.pusan.ac.kr/) at Pusan National University.
 
-- Qualifications:
+- Qualifications
   - Fluent in Korean or English, both written and spoken.
   - Proficient in Python programming.
   - Self-motivated in the field of computational biology.
