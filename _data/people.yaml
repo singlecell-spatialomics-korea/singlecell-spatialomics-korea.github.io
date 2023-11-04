@@ -1,35 +1,45 @@
-- name: Prof. Jeongbin Park
+- name: Jeongbin Park
+  prefix: Prof.
   group: Computational Omics Laboratory (COLab)
   url: https://pnucolab.com/
   institute: Pusan National University
-  description: Our group is at the Department of Biomedical Convergence Engineering, Pusan National University, Yangsan, Korea. We are interested in developing computational methods for analyzing single cell and spatial omics data, and applying them to study the molecular mechanisms of human diseases.
-- name: Prof. Junil Kim
+- name: Junil Kim
+  prefix: Prof.
   group: Laboratory for Single Cell Systems
   url: https://sites.google.com/site/neocaleb
   institute: Soongsil University
-  description: 
-- name: Dr. Heetak Lee
+- name: Heetak Lee
+  prefix: Dr.
   group: Center for Genome Engineering
   url: https://cge.ibs.re.kr/html/cge_en/teams/teams_020501.html
   institute: Institute for Basic Science
-  description: 
-- name: Prof. Chang Ho Sohn
+- name: Chang Ho Sohn
+  prefix: Prof.
   group: Center for NanoMedicine
   url: https://nanobme.yonsei.ac.kr/people.asp?mid=m04_02&sOpt=A&act=view&uid=1070
   institute: Institute for Basic Science, Yonsei University
-  description: 
-- name: Prof. Jong-Eun Park
+- name: Jong-Eun Park
+  prefix: Prof.
   group: Single-Cell Medical Genomics Laboratory
   url: https://sites.google.com/view/scmglkaist
   institute: Korea Advanced Institute of Science and Technology (KAIST)
-  description: 
-- name: Prof. Yun Hak Kim
+- name: Yun Hak Kim
+  prefix: Prof.
   group: Pioneer Lab
   url: https://yunhakkim.pusan.ac.kr/
   institute: Pusan National University
-  description:
-- name: Prof. Jong Kyoung Kim
+- name: Jong Kyoung Kim
+  prefix: Prof.
   group: Lab of Computational Biology
   url: https://cb.postech.ac.kr/
   institute: Pohang University of Science and Technology (POSTECH)
-  description:
+- name: Heonseok Kim
+  prefix: Prof.
+  group: Functional Genomics Lab
+  institute: Hanyang University
+  url: https://sites.google.com/view/heonseok-kim-lab/
+- name: Jihwan Park
+  prefix: Prof.
+  group: Functional Genomics Laboratory
+  url: https://cwww.gist.ac.kr/genomics/
+  institute: Gwangju Institute of Science and Technology (GIST)
