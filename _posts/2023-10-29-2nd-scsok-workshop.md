@@ -1,36 +1,22 @@
 ---
-layout: page
-title: "2024 Single Cell & Spatial Omics Workshop"
+layout: post
+title: "2nd Single Cell & Spatial Omics Workshop"
 location: Kyung-Ahm Engineering Building, Pusan National University, Yangsan
 start: 2024-01-22T13:00:00+09:00
 end: 2024-01-23T16:00:00+09:00
-categories: events
+category: event
 ---
 
-We are excited to announce our first workshop on Jekyll, a popular static site generator. This workshop is designed for beginners who want to learn how to create a website using Jekyll.
+We are excited to announce our second workshop on single cell and spatial omics!
 
 ## Workshop Details
 
-- Date: September 15, 2021
-- Time: 2:00 PM - 4:00 PM
-- Location: SCSOK Office, 123 Main St, Anytown, USA
-
-## Workshop Agenda
-
-- Introduction to Jekyll
-- Setting up a Jekyll site
-- Creating pages and posts
-- Customizing your site with themes
-- Deploying your site
-
-## Requirements
-
-- Laptop with internet access
-- Basic knowledge of HTML and CSS
+- Date: January 22, 2024
+- Time: 1 PM
+- Location: Kyung-Ahm Engineering Building, Pusan National University (Yangsan Campus), Yangsan, Korea
 
 ## Registration
 
-To register for the workshop, please fill out the [registration form](https://example.com/registration-form) by September 10, 2021. Space is limited, so register early to secure your spot.
+To register for the workshop, please visit [registration website](https://workshop.scsok.io) by December 1, 2023. Space is limited, so register early to secure your spot.
 
 We look forward to seeing you at the workshop!
-

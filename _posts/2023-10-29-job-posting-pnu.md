@@ -1,10 +1,17 @@
 ---
-layout: page
+layout: post
 title: "PhD Candidate and Internship Student Positions Available"
 group: "Computational Omics Laboratory"
 institute: "Pusan National University"
 active: true
-categories: jobs
+category: job
 ---
 
-We are looking for PhD candidates and Internship students at Pusan National University.
+We are currently seeking PhD candidates and internship students to join our team. Our work involves processing and analyzing diverse biomedical data generated using the latest experimental techniques, such as whole-genome sequencing, single-cell omics, and spatial omics methods. We employ cutting-edge machine learning and probabilistic tools to uncover previously undiscovered insights.
+
+To apply and become a part of our group, submit your application to the [Genomic Data Science Major (K-Genome)](https://genomicdata.pusan.ac.kr/) at Pusan National University.
+
+- Qualifications:
+  - Fluent in Korean or English, both written and spoken.
+  - Proficient in Python programming.
+  - Self-motivated in the field of computational biology.

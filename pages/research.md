@@ -5,6 +5,4 @@ subtitle: Research we are interested in, and working on.
 permalink: /research/
 ---
 
-## Methods
-
-### Will be available soon
+To be updated soon!
