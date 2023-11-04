@@ -7,8 +7,6 @@ end: 2023-01-04T14:30:00+09:00
 categories: events
 ---
 
-# 2023 Single Cell & Spatial Omics Workshop
-
 See below poster for details.
 
-![Poster of 2023 Single Cell & Spatial Omics Workshop](/assets/images/poster-1st-workshop.jpg){:style="width:50%"}
+![Poster of 2023 Single Cell & Spatial Omics Workshop](/assets/images/poster-1st-workshop.jpg){:class="w-full lg:w-1/2"}

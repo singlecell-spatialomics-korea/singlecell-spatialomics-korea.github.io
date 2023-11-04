@@ -7,8 +7,6 @@ end: 2024-01-23T16:00:00+09:00
 categories: events
 ---
 
-# Welcome to the 2nd SCSOK Workshop!
-
 We are excited to announce our first workshop on Jekyll, a popular static site generator. This workshop is designed for beginners who want to learn how to create a website using Jekyll.
 
 ## Workshop Details
