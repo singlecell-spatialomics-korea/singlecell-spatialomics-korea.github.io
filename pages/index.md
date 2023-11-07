@@ -11,4 +11,9 @@ Single Cell & Spatial Omics Korea is a community of researchers in Korea who are
 
 ## Contact
 
-We communicate via [Zulip]({{ site.zulip_url }}){:target="_blank"}. You can download and install `Zulip` app on your desktop or mobile device via `App store` or `Play store`, visit [here](https://zulip.com/apps/){:target="_blank"} for more detailed instructions. After installing Zulip app, type the url `{{ site.zulip_url }}` to log in.
+We communicate via [Zulip]({{ site.zulip_url }}){:target="_blank"}. To become a part of SCSOK, simply say hi to us on Zulip!
+
+
+![Zulip SCSOK](/assets/images/zulip-scsok.png){: .w-full }
+
+You can download and install `Zulip` app on your desktop or mobile device via `App store` or `Play store`, visit [here](https://zulip.com/apps/){:target="_blank"} for more detailed instructions. After installing Zulip app, type the url `{{ site.zulip_url }}` to log in.
