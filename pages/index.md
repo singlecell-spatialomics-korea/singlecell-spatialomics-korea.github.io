@@ -9,7 +9,7 @@ background: https://images.unsplash.com/photo-1521737604893-d14cc237f11d?ixlib=r
 
 Single Cell & Spatial Omics Korea is a community of researchers in Korea who are interested in single cell and spatial omics studies. We are a group of wet-lab and dry-lab researchers who are interested in single cell and spatial omics studies. We have a diverse background, including biology, medicine, computer science, mathematics, engineering, and statistics. We are interested in sharing our knowledge and experience to promote single cell and spatial omics studies in Korea.
 
-## Contact
+## How to Join
 
 We communicate via [Zulip]({{ site.zulip_url }}){:target="_blank"}. To become a part of SCSOK, simply say hi to us on Zulip!
 
