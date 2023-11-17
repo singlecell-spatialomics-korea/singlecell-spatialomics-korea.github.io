@@ -13,7 +13,7 @@ We are excited to announce our second workshop on single cell and spatial omics!
 
 - Date: January 22, 2024 - January 23, 2024
 - Location: Kyung-Ahm Engineering Building, Pusan National University (Yangsan Campus), Yangsan, Korea
-- On site registration: 12 PM, January 22nd
+- On site registration: ~~12 PM~~ 11:30 AM, January 22nd
 
 
 - Early (online) registration deadline: December 1st
