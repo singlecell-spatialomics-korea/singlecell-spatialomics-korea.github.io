@@ -25,3 +25,5 @@ We are excited to announce our second workshop on single cell and spatial omics!
 To register for the workshop, please visit [registration website](https://workshop.scsok.io) by December 1, 2023. Space is limited, so register early to secure your spot.
 
 We look forward to seeing you at the workshop!
+
+![Poster of 2024 Single Cell & Spatial Omics Workshop](/assets/images/poster-2nd-workshop.png){:class="w-full lg:w-1/2"}
