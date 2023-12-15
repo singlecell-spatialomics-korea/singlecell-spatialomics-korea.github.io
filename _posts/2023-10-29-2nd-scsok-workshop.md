@@ -16,7 +16,7 @@ We are excited to announce our second workshop on single cell and spatial omics!
 - On site registration: ~~12 PM~~ 11:30 AM, January 22nd
 
 
-- Early (online) registration deadline: December ~~1st~~ 15th
+- Early (online) registration deadline: December ~~1st~~ ~~15th~~ 22nd
 - Abstract submission deadline: December 22nd
 
 
