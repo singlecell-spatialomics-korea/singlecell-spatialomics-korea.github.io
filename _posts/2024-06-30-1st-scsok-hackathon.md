@@ -26,4 +26,4 @@ analysis methods. This hackathon offers a unique platform for interdisciplinary 
 bioinformatics, software development, and spatial biology to share their expertise. Throughout the event, teams will work together,
 with guidance from mentors, to develop prototypes within a set timeframe.
 
-Please note that this is an invitation-only event.
+Please note that this is an invitation-only event. If you are interested, please reach out on the Zulip `hackathon` channel.
