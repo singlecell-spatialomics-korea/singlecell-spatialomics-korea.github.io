@@ -7,11 +7,11 @@ end: 2024-08-22T11:00:00+09:00
 category: event
 ---
 
-We are excited to announce our first hackathon on single cell and spatial omics between Korean researchers!
+We are excited to announce our first hackathon on single-cell and spatial omics between Korean researchers!
 
 ## Details
 
-- Date: January 19, 2024 - January 22, 2024
+- Date: August 19, 2024 - August 22, 2024
 - Location: Oceans and Fisheries HRD Institute, Gijang, Busan
 - Host: Soongsil University, Single Cell & Spatial Omics Korea (SCSOK)
 - Organizer: Soongsil University, Pusan National University, Single Cell & Spatial Omics Korea (SCSOK)
