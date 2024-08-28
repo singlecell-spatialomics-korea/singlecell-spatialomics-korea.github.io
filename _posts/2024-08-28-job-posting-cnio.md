@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Postdoctoral Position: Computational Cancer Genomics Group at CNIO, Madrid"
-group: "Computational Omics Laboratory"
-institute: "Pusan National University"
+group: "Computational Cancer Genomics Group"
+institute: "CNIO, Madrid"
 active: true
 category: job
 ---
