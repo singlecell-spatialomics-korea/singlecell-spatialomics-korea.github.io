@@ -56,9 +56,9 @@
     lng: 129.3263
 - name: Heonseok Kim
   prefix: Prof.
-  group: Functional Genomics Lab
+  group: Laboratory of Genome Technology
   institute: Hanyang University
-  url: https://sites.google.com/view/heonseok-kim-lab/
+  url: http://crispr.hanyang.ac.kr/
   location:
     lat: 37.5588
     lng: 127.0443
