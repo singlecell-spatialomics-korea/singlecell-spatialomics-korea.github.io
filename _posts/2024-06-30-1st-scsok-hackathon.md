@@ -15,7 +15,7 @@ We are excited to announce our first hackathon on single-cell and spatial omics 
 - Location: Oceans and Fisheries HRD Institute, Gijang, Busan
 - Host: Soongsil University, Single Cell & Spatial Omics Korea (SCSOK)
 - Organizers: Junil Kim (Soongsil University), Jeongbin Park (Pusan National University), Single Cell & Spatial Omics Korea (SCSOK)
-- Website: https://hackathon.scsok.io/
+- Website: [https://hackathon.scsok.io/](https://hackathon.scsok.io/)
 
 Welcome to the 1st Single Cell & Spatial Omics Hackathon, to be held at the Oceans and Fisheries HRD Institute in Gijang, Busan.
 This exciting event will bring together experts, researchers, and data scientists in Korea in a collaborative setting to innovate
