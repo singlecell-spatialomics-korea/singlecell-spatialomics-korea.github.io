@@ -25,11 +25,11 @@
 - name: Chang Ho Sohn
   prefix: Prof.
   group: Center for NanoMedicine
-  url: https://nanobme.yonsei.ac.kr/people.asp?mid=m04_02&sOpt=A&act=view&uid=1070
-  institute: Institute for Basic Science, Yonsei University
+  url: https://gsmse.kaist.ac.kr/boards/view/professor_01/34
+  institute: Korea Advanced Institute of Science and Technology (KAIST)
   location:
-    lat: 37.5630
-    lng: 126.9344
+    lat: 36.3704
+    lng: 127.3655
 - name: Jong-Eun Park
   prefix: Prof.
   group: Single-Cell Medical Genomics Laboratory
