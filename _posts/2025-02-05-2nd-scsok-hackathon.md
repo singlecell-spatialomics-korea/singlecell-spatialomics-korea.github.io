@@ -7,7 +7,7 @@ end: 2025-02-21T17:10:00+09:00
 category: event
 ---
 
-We are excited to announce our first hackathon on single-cell and spatial omics between Korean researchers!
+We are excited to announce our 2nd hackathon on single-cell and spatial omics between Korean researchers!
 
 ## Details
 
