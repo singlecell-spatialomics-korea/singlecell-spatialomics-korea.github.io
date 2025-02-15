@@ -14,7 +14,7 @@ We are excited to announce our 2nd hackathon on single-cell and spatial omics be
 - Date: February 17 - 21, 2025
 - Location: Chung-Ang University (DaVinci Campus), Anseong, Gyeonggi-do
 - Host: Soongsil University, Single Cell & Spatial Omics Korea (SCSOK), Korea Bio Research Association (KOBRA)
-- Organizers: Junil Kim (Soongsil University), Daewon Lee (Chung-Ang University)
+- Organizers: Junil Kim (Soongsil University), Daewon Lee (Chung-Ang University), Jieun Jeong (Soongsil University)
 - Registration: [https://kobra.kr/REGISTRATION](https://kobra.kr/REGISTRATION)
 
 Welcome to the 2nd Single Cell & Spatial Omics Hackathon, taking place from February 17-21, 2025, at Chung-Ang University's
