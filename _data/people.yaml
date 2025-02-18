@@ -70,3 +70,11 @@
   location:
     lat: 35.2266
     lng: 126.8423
+- name: Daewon Lee
+  prefix: Prof.
+  group: Complex Intelligent Laboratory
+  url: https://cislab.cau.ac.kr
+  institute: Chung-Ang University
+  location:
+    lat: 37.0054
+    lng: 127.2304
