@@ -7,7 +7,7 @@ end: 2025-06-28T12:00:00+09:00
 category: event
 ---
 
-We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-Institute for Basic Science (IBS) Joint Symposium, focusing on the latest research by next-generation researchers in single-cell analysis and spatial technologies, genome engineering, stem cell biology, and cell therapy.
+We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-Institute for Basic Science (IBS) Joint Symposium, focusing on the latest research by next-generation researchers in single-cell analysis, spatial technologies, genome engineering, stem cell biology, and cell therapy.
 
 - **Date:** June 23, 2025 - June 28, 2025
 - **Location:** Soongsil University, Seoul, Korea
@@ -24,7 +24,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 
 - **Description:**
   - The joint symposium consists of two sessions:
-    1. **Session 1 (June 23-25):** The 3rd Single Cell and Spatial Omics Korea Workshop, focusing on single-cell analysis and spatial technologies to advance understanding of cells and tissues.
+    1. **Session 1 (June 23-25):** The 3rd Single Cell and Spatial Omics Korea Meeting, focusing on single-cell analysis and spatial technologies to advance understanding of cells and tissues.
     2. **Session 2 (June 25-28):** 2025 IBS-SyNRGE, aimed at next-generation researchers in genome engineering, stem cell biology, and cell therapy to foster collaboration and innovation.
 - **Keywords:** Single Cell, Spatial Omics, Stem Cell biology, Genome Engineering, Cell Therapy
 - **Confirmed Speakers (as of today):** Nir Yosef, Jingyi Jessica Li, Tim Stuart, Guangdun Peng, Shyam Prabhakar, Yasuhiro Murakawa, Yutaka Suzuki, YongKeun Park, Seunghee Hong, Joon-Yong An, Dong-Sung Lee, Ik Soo Kim, Buhm Han, Junha Kwon, Jungmin Choi, Su Bin Lim
