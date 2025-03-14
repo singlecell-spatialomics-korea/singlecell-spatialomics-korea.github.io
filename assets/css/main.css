@@ -52,3 +52,11 @@ ul > li {
 #map * {
     box-sizing: content-box;
 }
+
+table {
+    @apply font-light dark:text-white my-5
+}
+
+td {
+    @apply p-3
+}
