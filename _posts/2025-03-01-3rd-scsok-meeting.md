@@ -7,7 +7,7 @@ end: 2025-06-28T12:00:00+09:00
 category: event
 ---
 
-## 2025 Single Cell and Spatial Omics Korea (SCSOK)-Institute for Basic Science (IBS) Joint Symposium
+We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-Institute for Basic Science (IBS) Joint Symposium, focusing on the latest research by next-generation researchers in single-cell analysis and spatial technologies, genome engineering, stem cell biology, and cell therapy.
 
 - **Date:** June 23, 2025 - June 28, 2025
 - **Location:** Soongsil University, Seoul, Korea
