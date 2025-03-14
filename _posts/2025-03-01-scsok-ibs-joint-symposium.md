@@ -41,7 +41,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
   - **Optional Breakfast:** 22,000 KRW (Regular price: 45,000 KRW)
   - **Booking Deadline:** This special offer is available until April 15, 2025. To book, please contact the hotel at [jongyoon.park@ihg.com](mailto:jongyoon.park@ihg.com) and mention this announcement.
 
-### Conference Schedule
+### Conference Schedule (as of today, will be updated soon)
 
 #### June 22 (Sun)
 
