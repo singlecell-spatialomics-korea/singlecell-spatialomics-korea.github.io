@@ -54,7 +54,11 @@ ul > li {
 }
 
 table {
-    @apply font-light dark:text-white my-5 border dark:border-white
+    @apply font-light dark:text-white my-5
+}
+
+tr {
+    @apply border-t border-b dark:border-white
 }
 
 td {
