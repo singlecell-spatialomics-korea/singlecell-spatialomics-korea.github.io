@@ -44,11 +44,13 @@ category: event
 ### Conference Schedule
 
 #### June 22 (Sun)
+
 | Time | Session |
 | --- | --- |
 | 18:00 | Pre-session (Speakers & invited people only) |
 
 #### June 23 (Mon)
+
 | Time | Session |
 | --- | --- |
 | 8:00-8:50 | Registration |
@@ -67,6 +69,7 @@ category: event
 | 18:00 | Banquet |
 
 #### June 24 (Tue)
+
 | Time | Session |
 | --- | --- |
 | 9:00-9:45 | Registration |
@@ -84,6 +87,7 @@ category: event
 | 18:45 | Dinner & Meet the Speakers |
 
 #### June 25 (Wed)
+
 | Time | Session |
 | --- | --- |
 | 8:45-9:30 | Session 5: Application in Medicine II - Su Bin Lim (Ajou University) |
@@ -99,6 +103,7 @@ category: event
 | 17:00-18:00 | Flash Talks (selected posters) |
 
 #### June 26 (Thu)
+
 | Time | Session |
 | --- | --- |
 | 10:00-11:00 | Keynote: Toshiro Sato (Keio University) |
@@ -112,6 +117,7 @@ category: event
 | 16:00-18:00 | Poster session |
 
 #### June 27 (Fri)
+
 | Time | Session |
 | --- | --- |
 | 10:00-10:40 | Session 4. Genome Engineering - Jae-Yean Kim (Gyeongsang National University) |
@@ -122,6 +128,7 @@ category: event
 | 15:00-15:40 | Closing Remarks & Prize Draw |
 
 #### June 28 (Sat)
+
 | Time | Session |
 | --- | --- |
 | 10:00-12:00 | Tutorial Sessions (TBA) |
