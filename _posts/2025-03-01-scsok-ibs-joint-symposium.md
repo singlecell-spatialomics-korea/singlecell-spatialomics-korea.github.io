@@ -73,7 +73,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 | Time | Session |
 | --- | --- |
 | 8:00-9:00 | Registration |
-| 9:00-9:45 | Session 3: Epigenome - Su Bin Lim (Ajou University) |
+| 9:00-9:45 | Session 3: Epigenome - Su Bin Lim (Ajou University) (online) |
 | 9:45-10:30 | Session 3: Epigenome -  Dong-Sung Lee (Seoul National University) |
 | 10:30-11:15 | Session 3: Epigenome - Ik Soo Kim (Gacheon University) |
 | 11:15-12:00 | Session 3: Epigenome - Tim Stuart (Genome Institute of Singapore) |
