@@ -53,14 +53,14 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 
 | Time | Session |
 | --- | --- |
-| 8:00-8:50 | Registration |
-| 8:50-9:00 | Opening |
-| 9:00-9:45 | Session 1: New Technology - Guangdun Peng (Chinese Academy of Sciences) |
-| 9:45-10:30 | Session 1: New Technology - Heon Seok Kim (Hanyang University) |
+| 8:00-9:00 | Registration |
+| 9:00-9:45 | Session 1: New Technology -  Heon Seok Kim (Hanyang University) |
+| 9:45-10:30 | Session 1: New Technology - Guangdun Peng (Chinese Academy of Sciences) |
 | 10:30-11:15 | Session 1: New Technology - Jihwan Park (Gwangju Institute of Science and Technology) |
 | 11:15-11:30 | Break |
 | 11:30-12:45 | Keynote 1: YongKeun Park (KAIST) |
-| 12:45-14:00 | Luncheon Seminar (BMS) |
+| 12:45-13:45 | Luncheon Seminar (BMS) |
+| 14:30-14:45 | Opening Ceremony |
 | 14:45-15:30 | Session 2: Application in Medicine I - Yasuhiro Murakawa (Kyoto University) |
 | 15:30-16:15 | Session 2: Application in Medicine I - Seunghee Hong (Yonsei University) |
 | 16:15-17:00 | Session 2: Application in Medicine I - Joon-Yong An (Korea University) |
@@ -74,9 +74,9 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 | --- | --- |
 | 8:00-9:00 | Registration |
 | 9:00-9:45 | Session 3: Epigenome - Su Bin Lim (Ajou University) |
-| 9:45-10:30 | Session 3: Epigenome - Tim Stuart (Genome Institute of Singapore) |
-| 10:30-11:15 | Session 3: Epigenome - Dong-Sung Lee (Seoul National University) |
-| 11:15-12:00 | Session 3: Epigenome - Ik Soo Kim (Gacheon University) |
+| 9:45-10:30 | Session 3: Epigenome -  Dong-Sung Lee (Seoul National University) |
+| 10:30-11:15 | Session 3: Epigenome - Ik Soo Kim (Gacheon University) |
+| 11:15-12:00 | Session 3: Epigenome - Tim Stuart (Genome Institute of Singapore) |
 | 12:00-13:00 | Luncheon Seminar |
 | 13:00-14:30 | Keynote 2: Jingyi Jessica Li (University of California at Los Angeles) |
 | 14:30-14:45 | Coffee Break |
@@ -131,4 +131,4 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 
 | Time | Session |
 | --- | --- |
-| 10:00-12:00 | Tutorial Sessions (TBA) |
+| 10:00-12:00 | Tutorial Sessions - Guangzheng Weng (University of Copenhagen)|
