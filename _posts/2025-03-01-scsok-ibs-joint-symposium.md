@@ -11,6 +11,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 
 - **Date:** June 23, 2025 - June 28, 2025
 - **Location:** Soongsil University, Seoul, Korea
+- **Organizers:** Jeongbin Park (Pusan National University), Junil Kim (Soongsil University), Heetak Lee (Institute for Basic Science)
 
 ### Registration / Abstract Submission
 
