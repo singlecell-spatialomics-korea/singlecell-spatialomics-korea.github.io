@@ -16,8 +16,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 
 - **Registration / Abstract Submission:** [https://registration.kobra.kr/event/1](https://registration.kobra.kr/event/1)
 - **Important Deadlines:**
-  - **Oral Presentation Abstract Deadline:** May 1, 2025
-  - **Poster Abstract Deadline:** May 25, 2025
+  - **Abstract Submission Deadline:** May 25, 2025
   - **Registration Deadline:** May 25, 2025
 
 ### Event Details
