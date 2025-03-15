@@ -72,7 +72,8 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 
 | Time | Session |
 | --- | --- |
-| 9:00-9:45 | Registration |
+| 8:00-9:00 | Registration |
+| 9:00-9:45 | Session 3: Epigenome - Su Bin Lim (Ajou University) |
 | 9:45-10:30 | Session 3: Epigenome - Tim Stuart (Genome Institute of Singapore) |
 | 10:30-11:15 | Session 3: Epigenome - Dong-Sung Lee (Seoul National University) |
 | 11:15-12:00 | Session 3: Epigenome - Ik Soo Kim (Gacheon University) |
@@ -90,10 +91,9 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 
 | Time | Session |
 | --- | --- |
-| 8:45-9:30 | Session 5: Application in Medicine II - Su Bin Lim (Ajou University) |
-| 9:30-10:15 | Session 5: Application in Medicine II - Haeok Lee (Catholic University) |
-| 10:15-11:00 | Session 5: Application in Medicine II - Jungmin Choi (Korea University) |
-| 11:00-11:45 | Session 5: Application in Medicine II - Suzuki Yutaka (University of Tokyo) |
+| 9:00-9:45 | Session 5: Application in Medicine II - Haeok Lee (Catholic University) |
+| 9:45-10:30 | Session 5: Application in Medicine II - Jungmin Choi (Korea University) |
+| 10:30-11:30 | Session 5: Application in Medicine II - Suzuki Yutaka (University of Tokyo) |
 | 12:00-13:00 | Lunch & Registration for IBS-SyNRGE, Keynote (online): Hans Clevers (Utrecht University) |
 | 13:00-14:00 | Registration for IBS-SyNRGE |
 | 14:00-15:00 | Opening Remarks: IBS-SyNRGE |
