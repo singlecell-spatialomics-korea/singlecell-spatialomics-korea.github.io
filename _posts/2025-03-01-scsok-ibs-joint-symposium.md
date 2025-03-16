@@ -27,7 +27,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
     1. **Session 1 (June 23-25):** The 3rd Single Cell and Spatial Omics Korea Meeting, focusing on single-cell analysis and spatial technologies to advance understanding of cells and tissues.
     2. **Session 2 (June 25-28):** 2025 IBS-SyNRGE, aimed at next-generation researchers in genome engineering, stem cell biology, and cell therapy to foster collaboration and innovation.
 - **Keywords:** Single Cell, Spatial Omics, Stem Cell biology, Genome Engineering, Cell Therapy
-- **Confirmed Speakers (as of today):** Nir Yosef, Jingyi Jessica Li, Tim Stuart, Guangdun Peng, Shyam Prabhakar, Yasuhiro Murakawa, Yutaka Suzuki, YongKeun Park, Seunghee Hong, Joon-Yong An, Dong-Sung Lee, Ik Soo Kim, Buhm Han, Junha Kwon, Jungmin Choi, Su Bin Lim
+- **Confirmed Speakers (as of today):** Nir Yosef, Jingyi Jessica Li, YongKeun Park, Joon-Yong An, Jungmin Choi, Buhm Han, Seunghee Hong, Heon Seok Kim, Ik Soo Kim, Joonha Kwon, Dong-Sung Lee, Hae-Ock Lee, Yasuhiro Murakawa, Heon Seok Kim, Jihwan Park, Guangdun Peng, Shyam Prabhakar, Tim Stuart, Suzuki Yutaka
 - **Organizing Committee:**
   - **SCSOK Organizing Committee Chairs:** Jeongbin Park, Junil Kim, Heetak Lee
   - **IBS-SyNRGE Organizing Committee:** Committee Chairs - Heetak Lee, Bon-Kyoung Koo; Committee Members - Youngchul Oh, Yeongjun Kim, Onyu Shin, Ohbin Kwon, Soeun Lim, Yumi Byun, Sangmin Lee, Chaewon Lee, Jaehun Lee, Sieun Lee, Hyunmin Ryu, Jaeyeon Lee, Thomas Klompstra
