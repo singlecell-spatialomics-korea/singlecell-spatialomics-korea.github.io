@@ -1,33 +1,23 @@
-# Jekyll build output
-_site/
+node_modules
 
-# OS and editor files
+# Output
+.output
+.vercel
+.netlify
+.wrangler
+/.svelte-kit
+/build
+
+# OS
 .DS_Store
 Thumbs.db
-*.swp
-*.bak
-*~
-.project
-.settings
-*.tmproj
-*.sublime-workspace
 
-# Jekyll configuration files
-_config.yml
-_config.toml
-_config.json
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
 
-# Jekyll cache and logs
-.jekyll-cache/
-.jekyll-metadata
-.jekyll-keep
-
-# Build artifacts
-*.gem
-*.tar.gz
-*.zip
-
-# Ignore the vendor directory (if used)
-/vendor/
-
-node_modules/
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*

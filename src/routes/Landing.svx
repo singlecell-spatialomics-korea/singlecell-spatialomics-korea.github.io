@@ -1,0 +1,15 @@
+<script>
+    import { site } from '$lib/constants.js';
+</script>
+
+## Single Cell & Spatial Omics Korea (SCSOK)
+
+Single Cell & Spatial Omics Korea is a community of researchers in Korea who are interested in single cell and spatial omics studies. We are a group of wet-lab and dry-lab researchers who are interested in single cell and spatial omics studies. We have a diverse background, including biology, medicine, computer science, mathematics, engineering, and statistics. We are interested in sharing our knowledge and experience to promote single cell and spatial omics studies in Korea.
+
+## How to Join
+
+We communicate via [Zulip]({site.zulip_url}). To become a part of SCSOK, simply say hi to us on Zulip!
+
+<img alt="Zulip SCSOK" src="/images/zulip-scsok.png" class="w-full!" />
+
+You can download and install `Zulip` app on your desktop or mobile device via `App store` or `Play store`, visit [here](https://zulip.com/apps/) for more detailed instructions. After installing Zulip app, type the url **{site.zulip_url}** to log in.

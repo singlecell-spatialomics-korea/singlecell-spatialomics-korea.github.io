@@ -1,0 +1,34 @@
+---
+layout: post
+title: "2nd Single Cell & Spatial Omics Hackathon"
+location: Chung-Ang University (DaVinci Campus), Anseong, Gyeonggi-do
+start: 2025-02-17T14:00:00+09:00
+end: 2025-02-21T17:10:00+09:00
+---
+
+We are excited to announce our 2nd hackathon on single-cell and spatial omics between Korean researchers!
+
+### Details
+
+- Date: February 17 - 21, 2025
+- Location: Chung-Ang University (DaVinci Campus), Anseong, Gyeonggi-do
+- Host: Soongsil University, Single Cell & Spatial Omics Korea (SCSOK), Korea Bio Research Association (KOBRA)
+- Organizers: Junil Kim (Soongsil University), Daewon Lee (Chung-Ang University), Jieun Jeong (Soongsil University)
+- Registration: [https://kobra.kr/REGISTRATION](https://kobra.kr/REGISTRATION)
+
+Welcome to the 2nd Single Cell & Spatial Omics Hackathon, taking place from February 17-21, 2025, at Chung-Ang University's
+DaVinci Campus in Anseong, Gyeonggi-do. This prestigious event is jointly hosted by Soongsil University, Single Cell &
+Spatial Omics Korea (SCSOK), and Korea Bio Research Association (KOBRA), organized by Dr. Junil Kim from Soongsil University.
+
+The hackathon will convene experts, researchers, and data scientists from across Korea in a dynamic collaborative environment
+to advance innovation in single-cell and spatial omics data analysis. Participants will have the opportunity to work
+alongside peers on real-world datasets, developing cutting-edge analytical tools that provide profound insights into
+single-cell and spatially resolved biological data.
+
+As rapidly evolving fields driven by technological advancement and the growing demand for sophisticated analysis methods,
+single-cell and spatial omics represent crucial areas for scientific progress. This hackathon serves as an essential platform
+for interdisciplinary collaboration, bringing together professionals from bioinformatics, software development, and spatial
+biology in Korea. Teams will work collaboratively under expert mentorship to develop prototype solutions within designated
+timeframes.
+
+Interested participants can register for this exciting opportunity at https://kobra.kr/REGISTRATION.

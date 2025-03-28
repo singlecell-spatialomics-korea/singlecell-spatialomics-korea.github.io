@@ -1,0 +1,81 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+@plugin 'flowbite/plugin';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary-50: #E3F2FD;
+  --color-primary-100: #BBDEFB;
+  --color-primary-200: #90CAF9;
+  --color-primary-300: #64B5F6;
+  --color-primary-400: #42A5F5;
+  --color-primary-500: #2196F3;
+  --color-primary-600: #1E88E5;
+  --color-primary-700: #1976D2;
+  --color-primary-800: #1565C0;
+  --color-primary-900: #0D47A1;
+}
+
+@source "../node_modules/flowbite-svelte/dist";
+
+html {
+  @apply sm:text-lg font-light pb-2;
+}
+
+.mdsvex h2 {
+  @apply text-3xl font-bold mt-5 mb-4;
+}
+
+.mdsvex h3 {
+  @apply text-2xl font-semibold mt-4 mb-2;
+}
+
+.mdsvex h4 {
+  @apply text-xl font-semibold mt-3 mb-2;
+}
+
+.mdsvex p {
+  @apply mb-4;
+}
+
+.mdsvex ul {
+  @apply list-disc my-2 ml-6;
+}
+
+.mdsvex ol {
+  @apply list-decimal my-2 ml-6;
+}
+
+.mdsvex li {
+  @apply mb-2;
+}
+
+.mdsvex table {
+  @apply w-full text-left;
+}
+
+.mdsvex th {
+  @apply px-4 py-2 font-semibold text-gray-700 bg-gray-100 border-b border-gray-200;
+}
+
+.mdsvex td {
+  @apply px-4 py-2 border-b border-gray-200;
+}
+
+.mdsvex strong {
+  @apply font-semibold;
+}
+
+.mdsvex i {
+  @apply italic;
+}
+
+.mdsvex a {
+  @apply text-blue-600 hover:text-blue-800;
+}
+
+.mdsvex img {
+  @apply w-full lg:w-1/2;
+}
