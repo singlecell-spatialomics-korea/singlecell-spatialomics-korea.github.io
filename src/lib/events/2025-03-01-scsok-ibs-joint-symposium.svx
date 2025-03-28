@@ -40,7 +40,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
   - **Optional Breakfast:** 22,000 KRW (Regular price: 45,000 KRW)
   - **Booking Deadline:** This special offer is available until April 15, 2025. To book, please contact the hotel at [jongyoon.park@ihg.com](mailto:jongyoon.park@ihg.com) and mention this announcement.
 
-### Conference Schedule (as of today, will be updated soon)
+### Conference Schedule
 
 #### June 22 (Sun)
 
@@ -90,45 +90,46 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 
 | Time | Session |
 | --- | --- |
-| 9:00-9:45 | Session 5: Application in Medicine II - Hae-Ok Lee (Catholic University) |
+| 9:00-9:45 | Session 5: Application in Medicine II - Hae-Ock Lee (Catholic University) |
 | 9:45-10:30 | Session 5: Application in Medicine II - Jungmin Choi (Korea University) |
 | 10:30-11:30 | Session 5: Application in Medicine II - Suzuki Yutaka (University of Tokyo) |
 | 11:30-12:00 | Break |
-| 12:00-13:00 | Lunch & Registration for IBS-SyNRGE, Keynote (online): Hans Clevers (Utrecht University) |
+| 12:00-13:00 | Lunch & Registration for IBS-SyNRGE, Keynote (online): Hans Clevers (Hubrecht Institute) |
 | 13:00-14:00 | Registration for IBS-SyNRGE |
-| 14:00-15:00 | Opening Remarks: IBS-SyNRGE |
-| 15:00-15:40 | Session 1. Stem Cell - Young Ki Choi (Korea Virus Research Institute, IBS) |
-| 15:40-16:20 | Session 1. Stem Cell - Tae-Hee Kim (The Hospital for Sick Children) |
-| 16:20-17:00 | Session 1. Stem Cell - TBA |
+| 14:00-14:15 | Opening Remarks: IBS-SyNRGE |
+| 14:15-15:00 | Session 1. Stem Cell - Hyunjoon Kim (Korea Virus Research Institute, IBS) |
+| 15:00-15:45 | Session 1. Stem Cell - Tae-Hee Kim (University of Toronto) |
+| 15:45-16:30 | Session 1. Stem Cell - Masahiro Onji (Institute of Molecular Biotechnology) |
+| 16:30-17:00 | Coffee Break |
 | 17:00-18:00 | Flash Talks (selected posters) |
 
 #### June 26 (Thu)
 
 | Time | Session |
-| --- | --- |
+|---|---|
 | 10:00-11:00 | Keynote: Toshiro Sato (Keio University) |
-| 11:00-11:20 | Coffee break |
-| 11:20-12:00 | Session 2. Cell Therapy - Ji Won Oh (Yonsei University) |
-| 12:00-12:40 | Session 2. Cell Therapy - Kim Bak Jensen (University of Copenhagen) |
-| 12:40-14:00 | Lunch |
-| 14:00-14:40 | Session 2. Cell Therapy - TBA |
-| 14:40-15:20 | Session 3. Special Sessions on International Grant Writing - Bon-Kyoung Koo (Center for Genome Engineering, IBS) |
-| 15:20-16:00 | Session 3. Special Sessions on International Grant Writing - TBA |
-| 16:00-18:00 | Poster session |
+| 11:00-11:45 | Session 2. Cell Therapy - Sohyeon Lee (Korea Advanced Institute of Science and Technology) |
+| 11:45-12:30 | Session 2. Cell Therapy - Ji Won Oh (Yonsei University College of Medicine) |
+| 12:30-14:00 | Lunch |
+| 14:00-14:45 | Session 2. Cell Therapy - Kim Bak Jensen (University of Copenhagen) |
+| 14:45-15:25 | Session 3. International Grant Writing - Bon-Kyoung Koo (Center for Genome Engineering, IBS) |
+| 15:25-16:05 | Session 3. International Grant Writing - Hyoung-Ha Kim (Korea Research Institute of Standards and Science) |
+| 16:05-16:30 | Coffee Break |
+| 16:30-17:30 | Poster Session |
 
 #### June 27 (Fri)
 
 | Time | Session |
-| --- | --- |
-| 10:00-10:40 | Session 4. Genome Engineering - Jae-Yean Kim (Gyeongsang National University) |
-| 10:40-11:20 | Session 4. Genome Engineering - TBA |
-| 11:20-12:00 | Session 4. Genome Engineering - TBA |
-| 12:00-14:00 | Luncheon Seminar |
-| 14:00-15:00 | Keynote: Jin-Soo Kim (Korea Advanced Institute of Science and Technology) |
-| 15:00-15:40 | Closing Remarks & Prize Draw |
+|---|---|
+| 10:00-10:45 | Session 4. Genome Engineering - Jae-Yean Kim (Gyeongsang National University) |
+| 10:45-11:30 | Session 4. Genome Engineering - Le Cong (Stanford University School of Medicine) |
+| 11:30-12:15 | Session 4. Genome Engineering - Sangsu Bae (Seoul National University College of Medicine) |
+| 12:15-14:15 | Luncheon Seminar |
+| 14:15-15:15 | Keynote: Jin-Soo Kim (Korea Advanced Institute of Science and Technology) |
+| 15:15-16:00 | Closing Remarks & Prize Draw |
 
 #### June 28 (Sat)
 
 | Time | Session |
-| --- | --- |
-| 10:00-12:00 | Tutorial Sessions (GRNPT: Reconstruction of GRN using Transformer model) - Guangzheng Weng (University of Copenhagen)|
+|---|---|
+| 10:00-11:40 | Tutorial Sessions (GRNPT: Reconstruction of GRN using Transformer model) - Guangzheng Weng (GRNPT) |
