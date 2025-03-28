@@ -21,7 +21,7 @@
 @source "../node_modules/flowbite-svelte/dist";
 
 html {
-  @apply sm:text-lg font-light pb-2;
+  @apply text-sm sm:text-base font-light pb-2;
 }
 
 .mdsvex h2 {
