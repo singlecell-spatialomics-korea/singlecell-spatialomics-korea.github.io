@@ -42,7 +42,7 @@
 		<div class="mb-6 md:mb-0">
 			<a href="https://scsok.io/">
 				<img
-					src="/scsok-logo.png"
+					src="/scsok-logo-gray.png"
 					class="h-10 sm:h-14"
 					alt="SCSOK Logo"
 				/>

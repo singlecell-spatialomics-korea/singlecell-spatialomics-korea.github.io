@@ -5,7 +5,7 @@
 
 <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32 mb-8">
     <img src="scsok-bg.webp" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover object-right md:object-center">
-    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+    <div class="mx-auto container px-6 lg:px-8">
         <div class="mx-0 max-w-2xl">
         <h2 class="text-4xl! font-bold tracking-tight text-white sm:text-6xl!">Single Cell &amp;<br>Spatial Omics Korea</h2>
         <p class="mt-6 text-lg leading-8 text-gray-300">An open community for single-cell and spatial omics researchers in Korea.</p>
