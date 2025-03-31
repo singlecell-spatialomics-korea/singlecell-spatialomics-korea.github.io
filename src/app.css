@@ -23,7 +23,7 @@
 @source "../node_modules/flowbite-svelte/dist";
 
 html, body {
-  @apply font-light pb-2;
+  @apply font-light;
   font-family: "Roboto", serif;
 }
 
