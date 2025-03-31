@@ -36,8 +36,8 @@
 
 {@render children()}
 
-<Footer footerType="socialmedia" class="mx-auto mt-5 bg-gray-900 text-gray-400">
-	<div class="container">
+<Footer footerType="socialmedia" class="mx-auto mt-10 bg-gray-800 text-gray-400">
+	<div class="container mx-auto">
 		<div class="flex justify-between">
 			<div class="mb-6 md:mb-0">
 				<a href="https://scsok.io/">
