@@ -24,7 +24,7 @@
 
 html, body {
   @apply font-light;
-  font-family: "Roboto", serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .mdsvex h2 {
