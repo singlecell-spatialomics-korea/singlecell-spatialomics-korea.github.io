@@ -13,8 +13,8 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 - **Organizers:** Jeongbin Park (Pusan National University), Junil Kim (Soongsil University), Heetak Lee (Institute for Basic Science)
 - **Registration / Abstract Submission:** [https://events.scsok.io/event/1](https://events.scsok.io/event/1)
 - **Important Deadlines:**
-  - **Abstract Submission Deadline:** May 25, 2025
-  - **Registration Deadline:** May 25, 2025
+  - **Abstract Submission Deadline:** ~~May 25, 2025~~ June 1, 2025
+  - **Registration Deadline:** ~~May 25, 2025~~ June 1, 2025
 
 <div class="flex flex-col lg:flex-row gap-2 my-5">
   <img src="/images/scsok-3rd-meeting-poster.png" alt="SCSOK 3rd meeting poster" class="w-full">
