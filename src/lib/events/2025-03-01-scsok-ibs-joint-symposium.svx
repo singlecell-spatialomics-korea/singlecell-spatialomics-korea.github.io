@@ -82,7 +82,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 | 10:20-11:00 | Session 3: Epigenomics & Cellular Trajectory - Ik Soo Kim (Gacheon University) |
 | 11:00-11:40 | Session 3: Epigenomics & Cellular Trajectory - Tim Stuart (Genome Institute of Singapore) |
 | 11:40-12:00 | Pipe Organ Performance (Yonglan Han) |
-| 12:00-13:30 | Luncheon Seminar |
+| 12:00-13:30 | Break |
 | 13:30-14:30 | Keynote 2: Jingyi Jessica Li (University of California at Los Angeles) |
 | 14:30-14:45 | Coffee Break |
 | 14:45-15:30 | Session 4: Computational Methods - Shyam Prabhakar (Genome Institute of Singapore) |
