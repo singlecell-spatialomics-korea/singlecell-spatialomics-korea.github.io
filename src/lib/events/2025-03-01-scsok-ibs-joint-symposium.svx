@@ -130,7 +130,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 | Time | Session |
 | --- | --- |
 | 10:00-10:45 | Session 4. Genome Engineering - Jae-Yean Kim (Gyeongsang National University) |
-| 10:45-11:30 | Session 4. Genome Engineering - Le Cong (Stanford University School of Medicine) |
+| 10:45-11:30 | Session 4. Genome Engineering - Hui-Kwon Kim (Sungkyunkwan University) |
 | 11:30-12:15 | Session 4. Genome Engineering - Sangsu Bae (Seoul National University College of Medicine) |
 | 12:15-14:15 | Lunch |
 | 14:15-15:15 | Keynote 3: Jin-Soo Kim (Korea Advanced Institute of Science and Technology) |
