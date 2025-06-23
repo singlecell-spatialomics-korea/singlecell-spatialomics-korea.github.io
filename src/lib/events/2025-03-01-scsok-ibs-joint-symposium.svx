@@ -76,9 +76,9 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 | --- | --- |
 | 8:00-9:00 | Registration |
 | 9:00-9:40 | Session 3: Epigenomics & Cellular Trajectory - Su Bin Lim (Ajou University) |
-| 9:40-10:20 | Session 3: Epigenomics & Cellular Trajectory - Dong-Sung Lee (Seoul National University) |
+| 9:40-10:20 | Session 3: Epigenomics & Cellular Trajectory - Tim Stuart (Genome Institute of Singapore) |
 | 10:20-11:00 | Session 3: Epigenomics & Cellular Trajectory - Ik Soo Kim (Gacheon University) |
-| 11:00-11:40 | Session 3: Epigenomics & Cellular Trajectory - Tim Stuart (Genome Institute of Singapore) |
+| 11:00-11:40 | Session 3: Epigenomics & Cellular Trajectory - Dong-Sung Lee (Seoul National University) |
 | 11:40-12:00 | Pipe Organ Performance (Yonglan Han) |
 | 12:00-14:00 | Break |
 | 14:00-15:15 | Keynote 2: Jingyi Jessica Li (University of California at Los Angeles) |
