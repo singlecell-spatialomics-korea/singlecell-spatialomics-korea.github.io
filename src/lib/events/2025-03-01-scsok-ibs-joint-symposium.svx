@@ -42,8 +42,6 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
   - **Optional Breakfast:** 22,000 KRW (Regular price: 45,000 KRW)
   - **Booking Deadline:** This special offer is available until April 15, 2025. To book, please contact the hotel at [jongyoon.park@ihg.com](mailto:jongyoon.park@ihg.com) and mention this announcement.
 
-@**chatbot**
-
 ### Conference Schedule
 
 #### June 22 (Sun)
@@ -82,10 +80,9 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 | 10:20-11:00 | Session 3: Epigenomics & Cellular Trajectory - Ik Soo Kim (Gacheon University) |
 | 11:00-11:40 | Session 3: Epigenomics & Cellular Trajectory - Tim Stuart (Genome Institute of Singapore) |
 | 11:40-12:00 | Pipe Organ Performance (Yonglan Han) |
-| 12:00-13:30 | Break |
-| 13:30-14:30 | Keynote 2: Jingyi Jessica Li (University of California at Los Angeles) |
-| 14:30-14:45 | Coffee Break |
-| 14:45-15:30 | Session 4: Computational Methods - Shyam Prabhakar (Genome Institute of Singapore) |
+| 12:00-14:00 | Break |
+| 14:00-15:15 | Keynote 2: Jingyi Jessica Li (University of California at Los Angeles) |
+| 15:15-15:30 | Coffee Break |
 | 15:30-16:15 | Session 4: Computational Methods - Buhm Han (Seoul National University) |
 | 16:15-17:00 | Session 4: Computational Methods - Joonha Kwon (National Cancer Center) |
 | 17:00-17:15 | Coffee Break |
