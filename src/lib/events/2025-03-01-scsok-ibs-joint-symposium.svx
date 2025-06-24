@@ -96,8 +96,8 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 | 9:00-9:45 | Session 5: Application in Medicine II - Hae-Ock Lee (Catholic University) |
 | 9:45-10:30 | Session 5: Application in Medicine II - Jungmin Choi (Korea University) |
 | 10:30-11:30 | Session 5: Application in Medicine II - Suzuki Yutaka (University of Tokyo) |
-| 12:00-13:00 | Registration for IBS-SyNRGE, Keynote 1 (online): Hans Clevers (Hubrecht Institute) |
-| 13:00-14:00 | Registration for IBS-SyNRGE |
+| 12:00-13:00 | Registration for IBS-SyNRGE |
+| 13:00-14:00 | Keynote 1 (online): Hans Clevers (Hubrecht Institute) |
 | 14:00-14:15 | Opening Remarks: IBS-SyNRGE |
 | 14:15-15:00 | Session 1. Stem Cell - Hyunjoon Kim (Korea Virus Research Institute, IBS) |
 | 15:00-15:45 | Session 1. Stem Cell - Tae-Hee Kim (University of Toronto) |
