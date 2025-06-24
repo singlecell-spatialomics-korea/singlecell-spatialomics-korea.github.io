@@ -62,7 +62,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 | 11:10-11:20 | Opening Ceremony - Younjai Lee (President of Soongsil University) |
 | 11:20-11:30 | Opening Ceremony - Junil Kim (Soongsil University) |
 | 11:30-12:45 | Keynote 1: YongKeun Park (KAIST) |
-| 12:45-14:45 | Luncheon Seminar (Macrogen-) |
+| 12:45-14:45 | Luncheon Seminar (Macrogen) |
 | 14:45-15:30 | Session 2: Application in Medicine I - Yasuhiro Murakawa (Kyoto University) |
 | 15:30-16:15 | Session 2: Application in Medicine I - Seunghee Hong (Yonsei University) |
 | 16:15-17:00 | Session 2: Application in Medicine I - Joon-Yong An (Korea University) |
@@ -75,7 +75,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 | Time | Session |
 | --- | --- |
 | 8:00-9:00 | Registration |
-| 9:00-9:40 | Session 3: Epigenomics & Cellular Trajectory - Su Bin Lim (Ajou University) |
+| 9:00-9:40 | Session 3: Epigenomics & Cellular Trajectory - Su Bin Lim (Ajou University) - online |
 | 9:40-10:20 | Session 3: Epigenomics & Cellular Trajectory - Tim Stuart (Genome Institute of Singapore) |
 | 10:20-11:00 | Session 3: Epigenomics & Cellular Trajectory - Ik Soo Kim (Gacheon University) |
 | 11:00-11:40 | Session 3: Epigenomics & Cellular Trajectory - Dong-Sung Lee (Seoul National University) |
@@ -86,7 +86,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 | 15:30-16:15 | Session 4: Computational Methods - Buhm Han (Seoul National University) |
 | 16:15-17:00 | Session 4: Computational Methods - Joonha Kwon (National Cancer Center) |
 | 17:00-17:15 | Coffee Break |
-| 17:15-18:45 | Keynote 3: Nir Yosef (Weizmann Institute of Science) - Online |
+| 17:15-18:45 | Keynote 3: Nir Yosef (Weizmann Institute of Science) - online |
 | 18:45 | Dinner & Meet the Speakers (pre-registered attendees only) |
 
 #### June 25 (Wed)
