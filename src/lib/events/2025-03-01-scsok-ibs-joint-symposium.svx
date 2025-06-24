@@ -96,7 +96,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 | 9:00-9:45 | Session 5: Application in Medicine II - Hae-Ock Lee (Catholic University) |
 | 9:45-10:30 | Session 5: Application in Medicine II - Jungmin Choi (Korea University) |
 | 10:30-11:30 | Session 5: Application in Medicine II - Suzuki Yutaka (University of Tokyo) |
-| 12:00-13:00 | Lunch & Registration for IBS-SyNRGE, Keynote 1 (online): Hans Clevers (Hubrecht Institute) |
+| 12:00-13:00 | Registration for IBS-SyNRGE, Keynote 1 (online): Hans Clevers (Hubrecht Institute) |
 | 13:00-14:00 | Registration for IBS-SyNRGE |
 | 14:00-14:15 | Opening Remarks: IBS-SyNRGE |
 | 14:15-15:00 | Session 1. Stem Cell - Hyunjoon Kim (Korea Virus Research Institute, IBS) |
@@ -113,7 +113,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 | 10:00-11:00 | Keynote 2: Toshiro Sato (Keio University) |
 | 11:00-11:45 | Session 2. Cell Therapy - Sohyeon Lee (Korea Advanced Institute of Science and Technology) |
 | 11:45-12:30 | Session 2. Cell Therapy - Ji Won Oh (Yonsei University College of Medicine) |
-| 12:30-14:00 | Luncheon (MDxK) |
+| 12:30-14:00 | Luncheon Seminar (MDxK) |
 | 14:00-14:45 | Session 2. Cell Therapy - Kim Bak Jensen (University of Copenhagen) |
 | 14:45-15:25 | Session 3. International Grant Writing - Bon-Kyoung Koo (Center for Genome Engineering, IBS) |
 | 15:25-16:05 | Session 3. International Grant Writing - Hyoung-Ha Kim (Korea Research Institute of Standards and Science) |
@@ -129,7 +129,7 @@ We are excited to announce the 2025 Single Cell and Spatial Omics Korea (SCSOK)-
 | 10:00-10:45 | Session 4. Genome Engineering - Jae-Yean Kim (Gyeongsang National University) |
 | 10:45-11:30 | Session 4. Genome Engineering - Hui-Kwon Kim (Sungkyunkwan University) |
 | 11:30-12:15 | Session 4. Genome Engineering - Sangsu Bae (Seoul National University College of Medicine) |
-| 12:15-14:15 | Lunch |
+| 12:15-14:15 | Break |
 | 14:15-15:15 | Keynote 3: Jin-Soo Kim (Korea Advanced Institute of Science and Technology) |
 | 15:15-16:00 | Closing Remarks & Prize Draw |
 
