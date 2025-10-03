@@ -1,0 +1,27 @@
+---
+layout: post
+title: "3rd Single Cell & Spatial Omics Hackathon"
+location: Daejeon, IBS Science Culture Center
+start: 2026-02-09T9:00:00+09:00
+end: 2026-02-13T18:00:00+09:00
+---
+
+We are excited to announce our third hackathon on single-cell and spatial omics, featuring Korean researchers!
+
+### Details
+
+- **Date:** February 9 - 13, 2026
+- **Location:** Daejeon, IBS Science Culture Center
+- **Host:** Single Cell & Spatial Omics Korea (SCSOK)
+- **Organizer:** Institute for Basic Science (Center for Genome Engineering), Pusan National University (Interdisciplinary Major of Biodata Science Convergence), Soongsil University (G-LAMP AI-Bio Convergence Research Institute)
+- **Registration:** TBA
+
+The 3rd Single Cell & Spatial Omics Hackathon will be held at the Institute for Basic Science. Researchers, data scientists, and developers will collaborate in teams to analyze real single-cell and spatial omics datasets and develop prototype solutions.
+
+To ensure the hackathon addresses real scientific challenges, we are inviting submissions of any single-cell and spatial omics datasets. The goal of this call is to bring together data that highlight important biological questions and analytical needs, providing participants with opportunities to test methods, create tools, and generate new insights.
+
+Submitted datasets should have a clear study design and include a short description of the biological context and research questions. The data must be shareable with all hackathon participants, although public release is not required.
+
+The submission deadline is October 31, 2025. After review, five to ten datasets will be selected and used as the basis for team projects during the hackathon.
+
+Details about participant registration will be announced soon.
