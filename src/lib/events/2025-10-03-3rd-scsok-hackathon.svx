@@ -6,7 +6,7 @@ start: 2026-02-09T9:00:00+09:00
 end: 2026-02-13T18:00:00+09:00
 ---
 
-We are excited to announce our third hackathon on single-cell and spatial omics, featuring Korean researchers!
+We are excited to announce our third hackathon on single-cell and spatial omics in Daejeon!
 
 ### Details
 
@@ -24,7 +24,7 @@ To ensure the hackathon addresses real scientific challenges, we are inviting su
 
 Submitted datasets should have a clear study design and include a short description of the biological context and research questions. The data must be shareable with all hackathon participants, although public release is not required.
 
-The submission deadline is October 31, 2025. After review, five to ten datasets will be selected and used as the basis for team projects during the hackathon.
+The submission deadline is ~~October 31~~ November 30, 2025. After review, five to ten datasets will be selected and used as the basis for team projects during the hackathon.
 
 ### Registration
 
