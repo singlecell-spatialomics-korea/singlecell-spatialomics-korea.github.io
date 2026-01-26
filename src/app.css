@@ -203,7 +203,7 @@
 @source "../node_modules/flowbite-svelte/dist";
 
 html, body {
-  @apply font-light;
+  @apply font-light bg-gray-900;
   font-family: "Roboto", sans-serif;
 }
 

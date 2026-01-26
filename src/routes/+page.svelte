@@ -14,7 +14,7 @@
                     We are an open community for single-cell and spatial omics researchers in Korea.
                 </p>
                 <div class="mt-10 flex flex-wrap gap-4">
-                    <a href="/people" class="inline-flex items-center gap-2 rounded-full bg-emerald-500 px-6 py-3 text-sm font-semibold text-white hover:bg-emerald-400 transition-colors">
+                    <a href="#how-to-join" class="inline-flex items-center gap-2 rounded-full bg-emerald-500 px-6 py-3 text-sm font-semibold text-white hover:bg-emerald-400 transition-colors">
                         Join Our Community
                         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
