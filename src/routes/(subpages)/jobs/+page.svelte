@@ -18,17 +18,17 @@
     });
 </script>
 
-<Heading tag="h3" class="mb-2">
+<Heading tag="h3" class="mb-2 text-white text-3xl!">
     Jobs
 </Heading>
-<p class="leading-8 mb-6">
+<p class="leading-8 mb-6 text-gray-300">
     Current job openings at SCSOK research groups.
 </p>
 
 {#snippet JobCard(data)}
     <a href={"/jobs/" + data.key}>
-        <Card size="none" class="mb-4">
-            <div class="flex flex-col text-black">
+        <Card size="none" class="mb-4 bg-gray-800 border-gray-700">
+            <div class="flex flex-col text-white">
                 <h3 class="text-2xl font-bold mb-2">{data.title}</h3>
                 <p>{data.group} @ {data.institute}</p>
             </div>

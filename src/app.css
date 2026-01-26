@@ -207,16 +207,20 @@ html, body {
   font-family: "Roboto", sans-serif;
 }
 
+.mdsvex {
+  @apply text-gray-300;
+}
+
 .mdsvex h2 {
-  @apply text-3xl font-bold mt-5 mb-4;
+  @apply text-3xl font-bold mt-5 mb-4 text-white;
 }
 
 .mdsvex h3 {
-  @apply text-2xl font-semibold mt-4 mb-2;
+  @apply text-2xl font-semibold mt-4 mb-2 text-white;
 }
 
 .mdsvex h4 {
-  @apply text-xl font-semibold mt-3 mb-2;
+  @apply text-xl font-semibold mt-3 mb-2 text-white;
 }
 
 .mdsvex p {
@@ -240,15 +244,15 @@ html, body {
 }
 
 .mdsvex th {
-  @apply px-4 py-2 font-semibold text-gray-700 bg-gray-100 border-b border-gray-200;
+  @apply px-4 py-2 font-semibold text-gray-200 bg-gray-800 border-b border-gray-700;
 }
 
 .mdsvex td {
-  @apply px-4 py-2 border-b border-gray-200;
+  @apply px-4 py-2 border-b border-gray-700;
 }
 
 .mdsvex strong {
-  @apply font-semibold;
+  @apply font-semibold text-white;
 }
 
 .mdsvex i {
@@ -256,7 +260,7 @@ html, body {
 }
 
 .mdsvex a {
-  @apply text-blue-600 hover:text-blue-800;
+  @apply text-emerald-400 hover:text-emerald-300;
 }
 
 .mdsvex img {
