@@ -5,7 +5,7 @@
     let { content, metadata } = data;
 </script>
 
-<Heading tag="h3" class="mb-5 text-white">{metadata.title}</Heading>
+<Heading tag="h3" class="mb-5 text-gray-900">{metadata.title}</Heading>
 <div class="mdsvex">
     {#if content}
         {@render content()}

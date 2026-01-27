@@ -25,21 +25,21 @@
     const event_metadata_reverse = [...event_metadata].reverse();
 </script>
 
-<Heading tag="h3" class="mb-2 text-white text-3xl!">
+<Heading tag="h3" class="mb-2 text-gray-900 text-3xl!">
     Events
 </Heading>
-<p class="leading-8 mb-6 text-gray-300">
+<p class="leading-8 mb-6 text-gray-600">
     Meetups to share our knowledge and experience.
 </p>
 
-<Heading tag="h3" class="text-lg! font-bold tracking-tight text-white sm:text-2xl! mb-5">
+<Heading tag="h3" class="text-lg! font-bold tracking-tight text-gray-900 sm:text-2xl! mb-5">
     Upcoming Events
 </Heading>
 
 {#snippet EventCard(data)}
     <a href={"/events/" + data.key} _target="_blank">
-        <Card size="none" class="mb-4 bg-gray-800 border-gray-700">
-            <div class="flex flex-col text-white">
+        <Card size="none" class="mb-4 bg-white border-gray-200">
+            <div class="flex flex-col text-gray-900">
                 <h3 class="text-2xl font-bold mb-2">{data.title}</h3>
                 <p>{data.location}</p>
                 <p>
@@ -68,7 +68,7 @@
     {/if}
 {/each}
 
-<Heading tag="h3" class="text-lg! font-bold tracking-tight text-white sm:text-2xl! mb-5 mt-10">
+<Heading tag="h3" class="text-lg! font-bold tracking-tight text-gray-900 sm:text-2xl! mb-5 mt-10">
     Past Events
 </Heading>
 
