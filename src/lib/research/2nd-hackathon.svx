@@ -1,0 +1,30 @@
+---
+title: "2nd Single Cell & Spatial Omics Hackathon"
+location: Chung-Ang University (DaVinci Campus), Anseong, Gyeonggi-do
+date: February 17 - 21, 2025
+participants: 40
+opening:
+  - name: "Opening Presentation"
+    url: "#"
+    description: "Welcome and introduction slides"
+agenda:
+  - name: "Hackathon Agenda"
+    url: "#"
+    description: "Full schedule for the 5-day event"
+starting_materials:
+  - name: "Dataset Overview"
+    url: "#"
+    description: "Description of provided datasets"
+  - name: "Tutorial Notebooks"
+    url: "#"
+    description: "Getting started guides"
+final_deliverables:
+  - name: "Team Presentations"
+    url: "#"
+    description: "Final presentation slides from all teams"
+  - name: "Project Summary"
+    url: "#"
+    description: "Summary of outcomes and findings"
+---
+
+The 2nd Single Cell & Spatial Omics Hackathon expanded to 40 participants, continuing our mission to advance single-cell and spatial omics research in Korea.
