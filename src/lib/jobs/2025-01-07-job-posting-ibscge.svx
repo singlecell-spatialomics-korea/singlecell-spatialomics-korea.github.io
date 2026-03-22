@@ -3,7 +3,7 @@ layout: post
 title: "Research Fellow (Team Leader) – Center for Genome Engineering, IBS"
 group: "Center for Genome Engineering"
 institute: "IBS, Korea"
-active: true
+active: false
 ---
 
 The **Center for Genome Engineering (CGE)** at the Institute for Basic Science (IBS) is currently recruiting a **Research Fellow (Team Leader)** in the field of **Animal & Plant Genome Engineering**.
