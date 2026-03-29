@@ -14,7 +14,7 @@
 	} from "flowbite-svelte";
 </script>
 
-<Navbar navContainerClass="md:justify-start relative">
+<Navbar navContainerClass="md:justify-start relative" class="sticky top-0 z-50">
 	<NavHamburger />
 	<NavBrand href="/" class="sm:ml-6">
 		<img src="/scsok-logo.png" class="me-3 h-16 sm:h-20 sm:my-2" alt="SCSOK Logo" />
