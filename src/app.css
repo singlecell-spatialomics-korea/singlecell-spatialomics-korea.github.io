@@ -203,20 +203,24 @@
 @source "../node_modules/flowbite-svelte/dist";
 
 html, body {
-  @apply font-light;
+  @apply font-light bg-white;
   font-family: "Roboto", sans-serif;
 }
 
+.mdsvex {
+  @apply text-gray-700;
+}
+
 .mdsvex h2 {
-  @apply text-3xl font-bold mt-5 mb-4;
+  @apply text-3xl font-bold mt-5 mb-4 text-gray-900;
 }
 
 .mdsvex h3 {
-  @apply text-2xl font-semibold mt-4 mb-2;
+  @apply text-2xl font-semibold mt-4 mb-2 text-gray-900;
 }
 
 .mdsvex h4 {
-  @apply text-xl font-semibold mt-3 mb-2;
+  @apply text-xl font-semibold mt-3 mb-2 text-gray-900;
 }
 
 .mdsvex p {
@@ -248,7 +252,7 @@ html, body {
 }
 
 .mdsvex strong {
-  @apply font-semibold;
+  @apply font-semibold text-gray-900;
 }
 
 .mdsvex i {

@@ -1,0 +1,44 @@
+---
+title: "1st Single Cell & Spatial Omics Hackathon"
+location: Oceans and Fisheries HRD Institute, Gijang, Busan
+date: August 19 - 22, 2024
+participants: 33
+opening:
+  - name: "SCSOK Opening"
+    url: "/2024/SCSOK opening.pdf"
+    size: "1.8 MB"
+    presenter: "Prof. Jeongbin Park (Pusan National University)"
+agenda:
+  - name: "HD Preprint Data for Hackathon"
+    url: "/2024/HD_preprint_data_for_Hackathon_Quy.pdf"
+    size: "4.1 MB"
+    presenter: "Quy Xiao Xuan Lin (10X Genomics)"
+starting_materials:
+  - name: "HVG selection method for genotype batch dataset"
+    url: "/2024/hackathon_project_HVG_youngchul_240819.pptx"
+    size: "4.3 MB"
+    presenter: "Youngchul Oh (IBS)"
+  - name: "Fast and Scalable SSAM"
+    url: "/2024/SCSOK.pdf"
+    size: "1.7 MB"
+    presenter: "Yejin Kwak (Pusan National University)"
+final_deliverables:
+  - name: "Integration of spatial & single cell"
+    url: "/2024/1st_scsok_해커톤_기초과학연구원.pptx"
+    size: "5.7 MB"
+    presenter: "Donggon Cha (KRIBB)"
+  - name: "Integration of Visium HD and Xenium"
+    url: "/2024/ST Hackathon_geninus_skku.pptx"
+    size: "22.2 MB"
+    presenter: "Hee soo Kim (Geninus)"
+  - name: "Analyzing intratumoral heterogeneity at spatial level"
+    url: "/2024/TEAM_GIST.pptx.pptx"
+    size: "17.6 MB"
+    presenter: "Gyumin Park (GIST)"
+  - name: "Superpixel"
+    url: "/2024/Super_pixels_on_vesalius_presentation_final.pdf"
+    size: "4.2 MB"
+    presenter: "Hwisoo Choi (Soongsil University)"
+---
+
+The 1st Single Cell & Spatial Omics Hackathon brought together 33 participants to collaborate on cutting-edge single-cell and spatial omics analysis.

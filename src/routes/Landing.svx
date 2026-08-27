@@ -2,14 +2,169 @@
     import { site } from '$lib/constants.js';
 </script>
 
-## Single Cell & Spatial Omics Korea (SCSOK)
+<div class="py-16">
+    <h2 class="text-[2.5rem]! font-extrabold text-center text-gray-900 mb-4">Single Cell & Spatial Omics Korea (SCSOK)</h2>
+    <p class="text-center text-gray-600 max-w-6xl mx-auto mb-12">
+        Single Cell & Spatial Omics Korea is a community of researchers in Korea who are interested in single cell and spatial omics studies. We are a group of wet-lab and dry-lab researchers who are interested in single cell and spatial omics studies. We are interested in sharing our knowledge and experience to promote single cell and spatial omics studies in Korea.
+    </p>
 
-Single Cell & Spatial Omics Korea is a community of researchers in Korea who are interested in single cell and spatial omics studies. We are a group of wet-lab and dry-lab researchers who are interested in single cell and spatial omics studies. We have a diverse background, including biology, medicine, computer science, mathematics, engineering, and statistics. We are interested in sharing our knowledge and experience to promote single cell and spatial omics studies in Korea.
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- Biology -->
+        <div class="rounded-xl bg-gray-50 border border-gray-200 p-6 hover:bg-gray-100 hover:shadow-md transition-all">
+            <div class="w-12 h-12 rounded-lg bg-emerald-500/20 flex items-center justify-center mb-4">
+                <svg class="w-6 h-6 text-emerald-600" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+                    <path d="M2 15c6.667-6 13.333 0 20-6"></path>
+                    <path d="M9 22c1.798-1.998 2.518-3.995 2.807-5.993"></path>
+                    <path d="M15 2c-1.798 1.998-2.518 3.995-2.807 5.993"></path>
+                    <path d="m17 6-2.5-2.5"></path>
+                    <path d="m14 8-1-1"></path>
+                    <path d="m7 18 2.5 2.5"></path>
+                    <path d="m3.5 14.5.5.5"></path>
+                    <path d="m20 9 .5.5"></path>
+                    <path d="m6.5 12.5 1 1"></path>
+                    <path d="m16.5 10.5 1 1"></path>
+                    <path d="m10 16 1.5 1.5"></path>
+                    <path d="M2 9c6.667 6 13.333 0 20 6"></path>
+                </svg>
+            </div>
+            <h3 class="text-xl font-semibold text-gray-900 mb-2">Biology</h3>
+            <p class="text-gray-600 text-sm">Understanding life at the cellular and molecular level</p>
+        </div>
 
-## How to Join
+        <!-- Medicine -->
+        <div class="rounded-xl bg-gray-50 border border-gray-200 p-6 hover:bg-gray-100 hover:shadow-md transition-all">
+            <div class="w-12 h-12 rounded-lg bg-emerald-500/20 flex items-center justify-center mb-4">
+                <svg class="w-6 h-6 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
+                </svg>
+            </div>
+            <h3 class="text-xl font-semibold text-gray-900 mb-2">Medicine</h3>
+            <p class="text-gray-600 text-sm">Translating research into clinical applications</p>
+        </div>
 
-We communicate via [Zulip]({site.zulip_url}). To become a part of SCSOK, simply say hi to us on Zulip!
+        <!-- Computer Science -->
+        <div class="rounded-xl bg-gray-50 border border-gray-200 p-6 hover:bg-gray-100 hover:shadow-md transition-all">
+            <div class="w-12 h-12 rounded-lg bg-emerald-500/20 flex items-center justify-center mb-4">
+                <svg class="w-6 h-6 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+                </svg>
+            </div>
+            <h3 class="text-xl font-semibold text-gray-900 mb-2">Computer Science</h3>
+            <p class="text-gray-600 text-sm">Developing algorithms and software for data analysis</p>
+        </div>
 
-<img alt="Zulip SCSOK" src="/images/zulip-scsok.png" class="w-full!" />
+        <!-- Mathematics -->
+        <div class="rounded-xl bg-gray-50 border border-gray-200 p-6 hover:bg-gray-100 hover:shadow-md transition-all">
+            <div class="w-12 h-12 rounded-lg bg-emerald-500/20 flex items-center justify-center mb-4">
+                <svg class="w-6 h-6 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path>
+                </svg>
+            </div>
+            <h3 class="text-xl font-semibold text-gray-900 mb-2">Mathematics</h3>
+            <p class="text-gray-600 text-sm">Mathematical modeling and theoretical foundations</p>
+        </div>
 
-You can download and install `Zulip` app on your desktop or mobile device via `App store` or `Play store`, visit [here](https://zulip.com/apps/) for more detailed instructions. After installing Zulip app, type the url **{site.zulip_url}** to log in.
+        <!-- Engineering -->
+        <div class="rounded-xl bg-gray-50 border border-gray-200 p-6 hover:bg-gray-100 hover:shadow-md transition-all">
+            <div class="w-12 h-12 rounded-lg bg-emerald-500/20 flex items-center justify-center mb-4">
+                <svg class="w-6 h-6 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path>
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
+                </svg>
+            </div>
+            <h3 class="text-xl font-semibold text-gray-900 mb-2">Engineering</h3>
+            <p class="text-gray-600 text-sm">Building tools and technologies for research</p>
+        </div>
+
+        <!-- Statistics -->
+        <div class="rounded-xl bg-gray-50 border border-gray-200 p-6 hover:bg-gray-100 hover:shadow-md transition-all">
+            <div class="w-12 h-12 rounded-lg bg-emerald-500/20 flex items-center justify-center mb-4">
+                <svg class="w-6 h-6 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 17l6-6 4 4 8-8"></path>
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 7h4v4"></path>
+                </svg>
+            </div>
+            <h3 class="text-xl font-semibold text-gray-900 mb-2">Statistics</h3>
+            <p class="text-gray-600 text-sm">Statistical methods for high-dimensional biological data</p>
+        </div>
+    </div>
+</div>
+
+<!-- How to Join Section -->
+<div id="how-to-join" class="py-20 bg-gray-100 -mx-4 sm:-mx-6 px-4 sm:px-6 mt-3">
+    <div class="container mx-auto">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <!-- Left Section -->
+            <div class="lg:pl-8">
+                <h2 class="text-[2.5rem]! font-bold text-gray-900 mb-6">How to Join</h2>
+                <p class="text-gray-600 mb-10">
+                    Becoming part of SCSOK is simple. We communicate via Zulip.<br>To become a part of SCSOK, say hi to us on Zulip!
+                </p>
+
+                <!-- Step 1 -->
+                <div class="flex items-center gap-4 mb-8">
+                    <div class="w-12 h-12 rounded-lg bg-emerald-500/20 flex items-center justify-center flex-shrink-0">
+                        <svg class="w-6 h-6 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"></path>
+                        </svg>
+                    </div>
+                    <div>
+                        <div class="flex items-center gap-2 mb-1">
+                            <span class="text-emerald-600 font-semibold">01</span>
+                            <h3 class="text-gray-900 font-semibold">Join Zulip</h3>
+                        </div>
+                        <p class="text-gray-600 text-sm">Sign up on our Zulip workspace to connect with the community</p>
+                    </div>
+                </div>
+
+                <!-- Step 2 -->
+                <div class="flex items-center gap-4 mb-8">
+                    <div class="w-12 h-12 rounded-lg bg-emerald-500/20 flex items-center justify-center flex-shrink-0">
+                        <svg class="w-6 h-6 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"></path>
+                        </svg>
+                    </div>
+                    <div>
+                        <div class="flex items-center gap-2 mb-1">
+                            <span class="text-emerald-600 font-semibold">02</span>
+                            <h3 class="text-gray-900 font-semibold">Introduce Yourself</h3>
+                        </div>
+                        <p class="text-gray-600 text-sm">Say hi in the #general channel and share your research interests</p>
+                    </div>
+                </div>
+
+                <!-- Step 3 -->
+                <div class="flex items-center gap-4 mb-10">
+                    <div class="w-12 h-12 rounded-lg bg-emerald-500/20 flex items-center justify-center flex-shrink-0">
+                        <svg class="w-6 h-6 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                        </svg>
+                    </div>
+                    <div>
+                        <div class="flex items-center gap-2 mb-1">
+                            <span class="text-emerald-600 font-semibold">03</span>
+                            <h3 class="text-gray-900 font-semibold">Participate</h3>
+                        </div>
+                        <p class="text-gray-600 text-sm">Join seminars, contribute to discussions, and collaborate on projects</p>
+                    </div>
+                </div>
+
+                <!-- Join Button -->
+                <a href="{site.zulip_url}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 bg-emerald-500 text-white! px-6 py-3 rounded-lg hover:bg-emerald-600 transition-colors no-underline">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"></path>
+                    </svg>
+                    Join on Zulip
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                    </svg>
+                </a>
+            </div>
+
+            <!-- Right Section - Zulip Screenshot -->
+            <div class="flex justify-center items-center min-h-[400px] mt-8 lg:mt-0">
+                <img src="/images/zulip-scsok.png" alt="SCSOK Zulip Community" class="rounded-xl shadow-2xl w-auto h-auto min-w-full lg:mt-3 lg:-translate-x-25 lg:scale-120" />
+            </div>
+        </div>
+    </div>
+</div>
