@@ -25,7 +25,7 @@
         let infowindows = [];
         for (let i = 0; i < props.data.length; i++) {
             let marker = new kakao.maps.Marker({ position : new kakao.maps.LatLng(props.data[i].location.lat, props.data[i].location.lng)});
-            let infowindow = new kakao.maps.InfoWindow({content : '<div class="px-2 py-1 text-xs text-left h-8"><span class="inline-block align-middle">' + props.data[i].group + '</span></div>'});
+            let infowindow = new kakao.maps.InfoWindow({content : '<div style="padding: 8px 12px; font-size: 13px; white-space: nowrap; text-align: center;">' + props.data[i].group + '</div>'});
 
             markers.push(marker);
             infowindows.push(infowindow);

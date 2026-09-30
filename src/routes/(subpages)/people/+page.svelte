@@ -14,16 +14,16 @@
     });
 </script>
 
-<Heading tag="h3" class="mb-2">
+<Heading tag="h3" class="mb-2 text-gray-900 text-3xl!">
     People
 </Heading>
-<p class="leading-8 mb-6">
+<p class="leading-8 mb-6 text-gray-600">
     The people participating in the SCSOK community. If you are interested in joining us, please reach out to us through our <A href="https://zulip.scsok.io" target="_blank">Zulip</A> channel.
 </p>
 
 <div class="grid grid-cols-1 gap-10 lg:grid-cols-5">
     <div class="lg:col-span-3">
-        <ul class="space-y-1 list-disc ml-8">
+        <ul class="space-y-1 list-disc ml-8 text-gray-700">
         {#each sorted_people as person}
             <li>{ person.prefix } { person.name }
                 <ul class="ps-5 mt-2 space-y-1 list-disc ml-5">
