@@ -38,6 +38,14 @@
   location:
     lat: 36.3755
     lng: 127.3625
+- name: Hyojung Paik
+  prefix: Prof.
+  group: HP Laboratory
+  url: https://sites.google.com/view/hplabbioinfo
+  institute: Korea Institute of Science and Technology Information (KISTI), University of Science and Technology (UST)
+  location:
+    lat: 
+    lng: 
 - name: Yun Hak Kim
   prefix: Prof.
   group: Pioneer Lab
